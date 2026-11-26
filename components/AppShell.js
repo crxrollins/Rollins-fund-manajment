@@ -33,7 +33,7 @@ export default function AppShell({ children }) {
   return (
     <>
       <div className="nav">
-        <span className="logo">Rolence Fund</span>
+        <span className="logo">Rollins Fund</span>
         {links.map(([href, label]) => (
           <Link key={href} href={href} className={'link ' + (path === href ? 'active' : '')}>{label}</Link>
         ))}
