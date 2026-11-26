@@ -9,6 +9,7 @@ const links = [
   ['/accounts', 'Accounts'],
   ['/transactions', 'Transactions'],
   ['/projects', 'Projects'],
+  ['/trades', 'Trades'],
 ];
 
 export default function AppShell({ children }) {
