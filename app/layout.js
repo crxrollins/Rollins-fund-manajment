@@ -1,7 +1,7 @@
 import './globals.css';
 
 export const metadata = {
-  title: 'Rolence Fund Management',
+  title: 'Rollins Fund Management',
   description: 'Track your investments, transactions and projects in one place.',
 };
 
